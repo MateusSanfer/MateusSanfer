@@ -1,5 +1,7 @@
 ## Bem-vindo(a) ao meu perfil sou Mateus Sanfer 😁
 
+<b>Estou estudando no momento Lógica de programação junto com HTML, CSS e Js.</b>
+
  <div>
    <a href="https://github.com/MateusSanfer">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MateusSanfer&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -19,7 +21,7 @@
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/mateussanfer" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
-  <a href = "mailto:gemeos@devemdobro.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alvo ="_blank"></a>
+  <a href = "mateus.sanfer@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alvo ="_blank"></a>
   <a href="https://www.linkedin.com/in/mateus-sanfer" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  
   ![Snake animation](https://github.com/MateusSanfer/MateusSanfer/blob/output/github-contribution-grid-snake.svg)
