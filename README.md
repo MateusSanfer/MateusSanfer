@@ -1,6 +1,6 @@
 ## Bem-vindo(a) ao meu perfil sou Mateus Sanfer 😁
 
-<b>Estou estudando no momento Lógica de programação junto com HTML, CSS e Js.</b>
+<b>Estou estudando no momento Lógica de programação em C junto com HTML, CSS e Js.</b>
 
  <div>
    <a href="https://github.com/MateusSanfer">
