@@ -46,4 +46,4 @@ Estou no terceiro semestre do Curso de Desenvolvimento de Sistemas, iniciando os
 ## Minhas Contribuições
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=MateusSanfer&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/MateusSanfer/dio-lab-open-source)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=MateusSanfer&repo=pesquisa-de-filmes&bg_color=11151f&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)]([https://github.com/MateusSanfer/pesquisa-de-filmes](https://github.com/Emanuelsantos0318/TCC))
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=MateusSanfer&repo=pesquisa-de-filmes&bg_color=11151f&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Emanuelsantos0318/TCC)
