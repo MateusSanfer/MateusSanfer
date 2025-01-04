@@ -1,6 +1,6 @@
 # Bem-vindo(a) ao meu perfil sou Mateus Sanfer 😁
 
-Estou no terceiro semestre do Curso de Desenvolvimento de Sistemas, iniciando os estudos de Java, Python, PHP, React e Bancos de Dados.
+Sou Técnico Desenvolvimento de Sistemas, iniciando os estudos de Java, Python, PHP, React e Bancos de Dados.
 
 ## Tecnologias e Ferramentas
 
