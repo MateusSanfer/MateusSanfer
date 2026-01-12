@@ -1,6 +1,10 @@
-# Bem-vindo(a) ao meu perfil sou Mateus Sanfer 😁
+# 👋 Bem-vindo(a) ao meu perfil! Eu sou Mateus Sanfer 😁
 
-Sou Técnico Desenvolvimento de Sistemas, iniciando os estudos de Java, Python, PHP, React e Bancos de Dados.
+Sou *Técnico em Desenvolvimento de Sistemas* e graduando em *Análise e Desenvolvimento de Sistemas*.  
+Atualmente focado no desenvolvimento de *aplicações web e sistemas, com interesse em **frontend, backend e integração com banco de dados*. Estou tendo um crescente foco em Data Science e Machine Learning. Atualmente, estou consolidando minha base em Java, JavaScript e Python, aplicando esses conhecimentos em projetos práticos e bem documentados.. 
+
+🚀 Sempre em busca de aprender, evoluir e transformar ideias em soluções funcionais.
+
 
 ## Tecnologias e Ferramentas
 
